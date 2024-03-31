@@ -8,7 +8,7 @@ This repository contains a JSON dataset of port codes as used by CMA-CGM, a lead
 The primary aim of this project is to provide developers, researchers, and logistics professionals with an easy-to-use JSON formatted dataset of CMA-CGM port codes. This dataset is particularly useful for those working in shipping, logistics, and supply chain management who require CMA-CGM's specific port codes for their applications and analyses.
 
 ### Dataset Structure
-The dataset is structured in JSON format, making it straightforward to integrate into web applications, data analysis tools, and other software. Each entry in the JSON file contains the port code used by CMA-CGM, along with the corresponding global port code (when applicable), the name of the port, and its geographical location (latitude and longitude).
+The dataset is structured in JSON format, making it straightforward to integrate into web applications, data analysis tools, and other software. Each entry in the JSON file contains the port code used by CMA-CGM, along with the corresponding global port code (when applicable), the name of the port and country name.
 
 ### How to Use
 - Clone this repository or download the JSON file directly.-
